@@ -1,0 +1,21 @@
+        .clothing-item:hover {
+            transform: scale(1.1);
+        }
+
+        body {
+            background-color: black;
+            color: white
+        }
+
+        .card-title {
+            color: black;
+        }
+
+        .card-text {
+            color: black;
+        }
+
+        footer {
+            margin: 0 auto;
+            justify-content: center;
+        }
